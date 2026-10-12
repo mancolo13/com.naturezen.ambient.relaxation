@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 class AppTheme {
-  static const Color primary = Color(0xFF26A69A);
-  static const Color secondary = Color(0xFF80CBC4);
-  static const Color background = Color(0xFF091413);
-  static const Color surface = Color(0xFF112624);
-  static const Color card = Color(0xFF193734);
+  static const Color primary = Color(0xFF7E57C2);
+  static const Color secondary = Color(0xFFEC407A);
+  static const Color background = Color(0xFF120E1C);
+  static const Color surface = Color(0xFF1D172E);
+  static const Color card = Color(0xFF2B2244);
   static const Color textPrimary = Colors.white;
   static const Color textSecondary = Colors.white70;
 
