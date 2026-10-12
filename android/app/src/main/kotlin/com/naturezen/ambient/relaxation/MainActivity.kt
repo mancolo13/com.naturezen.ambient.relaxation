@@ -1,0 +1,5 @@
+package com.naturezen.ambient.relaxation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
